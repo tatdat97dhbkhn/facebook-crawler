@@ -12,7 +12,7 @@ The facebook-crawler is built on the top of [Rails](https://rubyonrails.org/).
 - Docker (https://www.docker.com/)
 
 ## Setup
-- `echo "9f5076bd8a2fc7d23cf066ed826f2f19" > config/master.key`
+- `echo "fbc3e3eb4bd90f9e891b3a3bb169776e" > config/master.key`
 - `chmod +x entrypoint_development.sh`
 - `cp .env.example .env`
 - `make build`
